@@ -1,5 +1,8 @@
 # HK-House-Price-Prediction Web App
 
+## Website interface
+![image](https://github.com/user-attachments/assets/d57edefe-5372-49ec-87c3-ef83ef84aaf5)
+
 ## Architecture
 ![image](https://github.com/user-attachments/assets/c754845b-925e-4b28-9c8b-f964c61162f6)
 
@@ -30,7 +33,5 @@
 
 **WORKING ON...**     
 4. **Creating Python Flask Server and Nginx Web App**: <br>
-**Prototype**:<br>
-![image](https://github.com/user-attachments/assets/7ff97c96-141a-4fe9-b304-562ece865187)
 
-6. **Hosting Web App on AWS EC2 instance**:
+5. **Hosting Web App on AWS EC2 instance**:
